@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\docs",
+    "\\order-service",
+    "\\product-service"
+  ],
+  "SelectedNode": "\\product-service\\Dockerfile.reference",
+  "PreviewInSolutionExplorer": false
+}
